@@ -27,17 +27,29 @@ The purpose of this project is to **showcase practical knowledge of software tes
 ├── pom.xml # Maven configuration and dependencies
 
 ├── src/
+
 │ ├── main/
+
 │ │ ├── java/
+
 │ │ │ └── com/
+
 │ │ │ └── utilities/ # Helper classes, base setup, screenshot logic, page objects
+
 │ │ └── resources/ # Configuration files
+
 │ └── test/
+
 │ └── java/
+
 │ └── com/
+
 │ ├── demoqa/ # Test cases for DemoQA website
+
 │ └── saucedemo/ # Test cases for SauceDemo website
+
 ├── .gitignore
+
 └── README.md
 
 ---
