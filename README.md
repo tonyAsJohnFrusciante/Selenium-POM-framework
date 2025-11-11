@@ -7,7 +7,7 @@ It demonstrates modern automation testing practices, including Page Object Model
 The purpose of this project is to **showcase practical knowledge of software testing and automation engineering**, including:
 - Writing maintainable Selenium tests in Java  
 - Structuring a project with Maven and TestNG  
-- Executing tests across two websites ([DemoQA](https://demoqa.com/) and [SauceDemo](https://www.saucedemo.com)  
+- Executing tests across two websites ([DemoQA](https://demoqa.com/) and [SauceDemo](https://www.saucedemo.com))
 
 ---
 
